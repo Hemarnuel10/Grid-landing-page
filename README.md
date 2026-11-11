@@ -23,7 +23,7 @@ Build the landing page so that it:
 
 ### Screenshot
 
-![Desktop view](.desktop.png)
+![Desktop view](./desktop.png)
 
 ### Links
 
