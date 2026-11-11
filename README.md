@@ -53,3 +53,5 @@ Build the landing page so that it:
 
 **Abegunde Emmanuel Abiodun (Hemarnuel)**
 - GitHub: [@Hemarnuel10](https://github.com/Hemarnuel10)
+- x: https://x.com/hemarnueldev
+- Linkedin: https://www.linkedin.com/in/emmanuelabegunde
